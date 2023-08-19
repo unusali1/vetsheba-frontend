@@ -1,0 +1,10 @@
+.ProductCard{
+    box-shadow: 10px 10px 10px rgba(204, 45, 45, 0.2), 
+    -10px 10px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    background: none;
+    height: auto;
+}
+.ProductImg{
+ padding: 15px;
+}
